@@ -8,7 +8,7 @@
 
 ## 🔭 What I do
 
-I'm a **Telecom Engineer** at [Algar Telecom](https://www.algartelecom.com.br), specializing in **RAN engineering and network automation** across LTE/4G and 5G NR environments.
+I'm a **Telecom Engineer** at [Algar](https://www.algartelecom.com.br), specializing in **RAN engineering and network automation** across LTE/4G and 5G NR environments.
 
 My day-to-day spans RF planning, cell configuration, vendor integration, and building internal tools that eliminate repetitive manual work — turning hours of Excel and MML commands into one-click automation.
 
