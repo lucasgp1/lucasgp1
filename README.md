@@ -22,7 +22,7 @@ My day-to-day spans RF planning, cell configuration, vendor integration, and bui
 ![RF](https://img.shields.io/badge/RF_Planning-Link_Budget_|_Coverage-orange?style=flat)
 ![NetAct](https://img.shields.io/badge/Nokia_NetAct-XML_Scripting-003580?style=flat)
 ![M2000](https://img.shields.io/badge/Huawei_M2000-MML_Commands-cc0000?style=flat)
-![ZTE](https://img.shields.io/badge/ZTE_|_NEC-Multi--vendor-grey?style=flat)
+
 
 ### 🐍 Automation & Dev
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)
