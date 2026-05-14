@@ -22,7 +22,6 @@ My day-to-day spans RF planning, cell configuration, vendor integration, and bui
 ![RF](https://img.shields.io/badge/RF_Planning-Link_Budget_|_Coverage-orange?style=flat)
 ![NetAct](https://img.shields.io/badge/Nokia_NetAct-XML_Scripting-003580?style=flat)
 ![M2000](https://img.shields.io/badge/Huawei_M2000-MML_Commands-cc0000?style=flat)
-![ZTE](https://img.shields.io/badge/ZTE_|_NEC-Multi--vendor-grey?style=flat)
 
 ### 🐍 Automation & Dev
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)
@@ -66,7 +65,7 @@ Collection of Nokia NetAct configuration script templates for LTE and 5G NR site
 [→ DOI](https://doi.org/XXXXXXX)
 
 ### 🎓 Undergraduate Thesis
-**Análise dos Parâmetros de Throughput e de Latência em uma Rede 5G Non Stand Alone** · UFU, [YEAR]
+**Análise dos Parâmetros de Throughput e de Latência em uma Rede 5G Non Stand Alone** · UFU, [2019]
 [→ Read](https://github.com/lucasgp1/Publications/blob/main/TCC%20Lucas%20-%20An%C3%A1lisePar%C3%A2metrosThroughput.pdf)
 
 ---
