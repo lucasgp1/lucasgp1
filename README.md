@@ -1,16 +1,96 @@
-## Hi there 👋
+# 👋 Hi, I'm Lucas — Telecom Engineer & RAN Automation Enthusiast
 
-<!--
-**lucasgp1/lucasgp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/lucas-goncalves-745116118)
+[![Location](https://img.shields.io/badge/📍_Uberlândia,_MG-Brazil-009c3b)](https://maps.google.com/?q=Uberlândia,MG)
+[![English](https://img.shields.io/badge/🇧🇷_PT_|_🇺🇸_EN-Bilingual-informational)](https://github.com/lucasgp1)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I do
+
+I'm a **Telecom Engineer** at [Algar Telecom](https://www.algartelecom.com.br), specializing in **RAN engineering and network automation** across LTE/4G and 5G NR environments.
+
+My day-to-day spans RF planning, cell configuration, vendor integration, and building internal tools that eliminate repetitive manual work — turning hours of Excel and MML commands into one-click automation.
+
+---
+
+## 🛠️ Tech Stack & Domain Skills
+
+### 📡 Telecom & RAN
+![LTE](https://img.shields.io/badge/LTE_/_4G-Nokia_|_Huawei-005073?style=flat)
+![5G](https://img.shields.io/badge/5G_NR-Planning_&_Rollout-6e2ef7?style=flat)
+![RF](https://img.shields.io/badge/RF_Planning-Link_Budget_|_Coverage-orange?style=flat)
+![NetAct](https://img.shields.io/badge/Nokia_NetAct-XML_Scripting-003580?style=flat)
+![M2000](https://img.shields.io/badge/Huawei_M2000-MML_Commands-cc0000?style=flat)
+![ZTE](https://img.shields.io/badge/ZTE_|_NEC-Multi--vendor-grey?style=flat)
+
+### 🐍 Automation & Dev
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-Data_Processing-150458?style=flat&logo=pandas)
+![openpyxl](https://img.shields.io/badge/openpyxl-Excel_Automation-green?style=flat)
+![Tkinter](https://img.shields.io/badge/Tkinter-Desktop_Apps-blue?style=flat)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-Packaging-grey?style=flat)
+
+---
+
+## 🚀 Featured Projects
+
+### 🟢 [FSCI Generator](https://github.com/lucasgp1/fsci-generator)
+> **Python · Tkinter · pandas · openpyxl**
+
+Desktop automation tool for generating telecom infrastructure sharing request forms (FSCIs) used in tower co-location processes. Replaces a multi-step manual Excel workflow with a single-click GUI.
+
+**Key features:**
+- Smart autocomplete on site names from a local database
+- Session history with AEV delta tracking
+- Visual row indicators for INSTALAÇÃO / REMOÇÃO operations
+- Custom success dialog with direct folder access
+- Packaged as a standalone `.exe` — no Python install needed
+
+---
+
+### 📡 [Nokia NetAct XML Scripts](https://github.com/lucasgp1/nokia-netact-scripts)
+> **XML · Nokia NetAct · LTE · 5G NR**
+
+Collection of Nokia NetAct configuration script templates for LTE and 5G NR site deployment, covering cell creation, parameter audit, and bulk generation patterns. Includes Brazil-specific frequency band tables and DN format conventions.
+
+---
+
+### 📊 [RAN Automation Toolkit *(em construção)*](https://github.com/lucasgp1/ran-automation-toolkit)
+> **Python · pandas · openpyxl**
+
+Utilities for common RAN engineering tasks: frequency band/technology mapping, KPI data parsing, and Excel report generation — designed for multi-vendor environments.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasgp1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00c853&icon_color=00c853)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgp1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00c853)
+
+</div>
+
+---
+
+## 🎯 Currently working on
+
+- 📘 Building a **mobile networks course** (2G → 5G) for Portuguese-speaking engineers on Udemy
+- 🤖 Expanding the **FSCI Generator** with new automation modules
+- 📡 Deepening **5G NR** RAN knowledge — carrier aggregation, beamforming, NSA/SA architecture
+- 🌐 Improving English fluency for international consulting opportunities
+
+---
+
+## 📬 Let's connect
+
+I'm always open to talking about **telecom automation, RAN engineering, or consulting opportunities**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_...-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/lucas-goncalves-745116118)
+[![Email](https://img.shields.io/badge/Email-lucas.g.p@live.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucas.g.p@live.com)
+
+---
+
+<sub>⚡ *"Automating the boring stuff — one FSCI at a time."*</sub>
